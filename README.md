@@ -1,12 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your static site
-
-This project is configured for static hosting on GitHub Pages.
-
-View your app in AI Studio: https://ai.studio/apps/e64b0657-a3a9-4ad2-ac07-0fd80867657a
 
 ## Run Locally
 
